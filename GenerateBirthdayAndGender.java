@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GenarateBirthdayAndGender{
+public class GenerateBirthdayAndGender{
 
     static String src,year,month,day,sex,nic;
     static int len,days;
