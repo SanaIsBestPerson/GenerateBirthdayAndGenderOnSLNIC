@@ -20,4 +20,5 @@ To get more help on the JAVA use `java -help` or go check out the [JAVA Overview
 
 ## Output
 
-<img width="389" alt="Screenshot 2023-08-16 at 23 41 42" src="https://github.com/SanaIsBestPerson/GenerateBirthdayAndGenderOnSLNIC/assets/95904319/9fa1e39c-2a92-4952-b48f-d1b1a58b4c21">
+<img width="389" alt="output" src="https://github.com/SanaIsBestPerson/GenerateBirthdayAndGenderOnSLNIC/assets/95904319/634273d8-ac67-4296-859a-38c6777ce72d">
+
